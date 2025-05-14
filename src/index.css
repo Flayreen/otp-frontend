@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    background-color: #171717;
+}

@@ -1,0 +1,16 @@
+[
+    {
+        "websiteUrl": "https://linktr.ee/kitty.house.kyiv?fbclid=PAZXh0bgNhZW0CMTEAAaZFQQQd4FRQajggY63-BHaahBbr8cA8dNJFfbiKK-DOYe0U3797wu-5bEQ_aem_h9pqPhvMZiCfWSG3C_PahA",
+        "companyName": "Kitty House",
+        "logoUrl": "/images/adBanner/kitty.house.kyiv_1-removebg-preview (1) 1.png",
+        "description": "Притулок для котиків «KITTY HOUSE»📍Київ, м. Осокорки",
+        "backgroundColor": "#540934",
+        "companyNameColor": "#ffffff",
+        "descriptionColor": "#AFAFAF",
+        "socialLinks": [
+            { "name": "Instagram", "url": "https://www.instagram.com/kitty.house.kyiv/?igshid=OGQ5ZDc2ODk2ZA%3D%3D", "icon": "/icons/socialmedia/instagram-alt 1.svg" }, 
+            { "name": "TikTok", "url": "https://www.tiktok.com/@kitty.house.kyiv?_t=8pCXpqDPDvy&_r=1", "icon": "/icons/socialmedia/tiktok-svgrepo-com 1.svg" },
+            { "name": "Facebook", "url": "https://www.facebook.com/kitty.house.kyiv/", "icon": "/icons/socialmedia/facebook.svg" }
+        ]
+    }
+]
